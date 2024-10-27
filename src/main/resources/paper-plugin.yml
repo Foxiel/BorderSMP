@@ -1,0 +1,4 @@
+name: BorderSMP
+version: '1.0-SNAPSHOT'
+main: org.bordersmp.borderSMP.BorderSMP
+api-version: '1.21'
